@@ -67,7 +67,7 @@ namespace Diodon
 	     */
 	    public string get_text()
         {
-            return _text;
+            return _text + "\n";
         }
 
         /**
